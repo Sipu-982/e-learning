@@ -1,0 +1,36 @@
+.container{
+    -webkit-backdrop-filter: blur(15px);
+    backdrop-filter: blur(15px);
+    background: rgba(209, 252, 143, 0.4);
+}
+/* .card1{
+    position: absolute;
+    top: 0;
+    le
+} */
+.card2{
+    position: absolute;
+    top: 30px;
+    left: 60px;
+}
+.card3{
+    position: absolute;
+    top: 50px;
+    left: 0;
+}
+.card4{
+    position: absolute;
+    top: 0;
+    right:70px;
+}
+.card5{
+   position: absolute;
+    top: 50px;
+    right:40px;
+    z-index: 50;
+}
+.card6{
+    position: absolute;
+    top: 70px;
+    right: 0;
+}
